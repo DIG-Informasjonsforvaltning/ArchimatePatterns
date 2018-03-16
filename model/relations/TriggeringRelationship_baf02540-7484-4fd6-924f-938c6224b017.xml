@@ -1,0 +1,12 @@
+<archimate:TriggeringRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Nei"
+    id="baf02540-7484-4fd6-924f-938c6224b017">
+  <source
+      xsi:type="archimate:Junction"
+      href="Junction_33d2241e-b63d-4a23-9325-b91db4ae84cf.xml#33d2241e-b63d-4a23-9325-b91db4ae84cf"/>
+  <target
+      xsi:type="archimate:BusinessEvent"
+      href="BusinessEvent_4e1a5ccc-d7dc-4691-b1b2-e2e95386d24f.xml#4e1a5ccc-d7dc-4691-b1b2-e2e95386d24f"/>
+</archimate:TriggeringRelationship>

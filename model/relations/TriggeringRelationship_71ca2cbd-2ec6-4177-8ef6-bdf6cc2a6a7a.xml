@@ -1,0 +1,12 @@
+<archimate:TriggeringRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Ja"
+    id="71ca2cbd-2ec6-4177-8ef6-bdf6cc2a6a7a">
+  <source
+      xsi:type="archimate:Junction"
+      href="Junction_33d2241e-b63d-4a23-9325-b91db4ae84cf.xml#33d2241e-b63d-4a23-9325-b91db4ae84cf"/>
+  <target
+      xsi:type="archimate:BusinessFunction"
+      href="BusinessFunction_a3eb9010-933a-454e-8e74-081e1541ea9b.xml#a3eb9010-933a-454e-8e74-081e1541ea9b"/>
+</archimate:TriggeringRelationship>
