@@ -2,7 +2,8 @@
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Prosess ala BPMN"
-    id="c07c7fb2-fec5-4338-8e98-b78ff61d3bbd">
+    id="c07c7fb2-fec5-4338-8e98-b78ff61d3bbd"
+    documentation="Dette diagrammet forsøker å utforske korleis vi i ArchiMate kan modellere ein prosess slik at framstillinga liknar mest mogleg på BPMN. Mange likar BPMN sine pools og swimlanes. Diagrammet viser at det er mogleg å tilnærme seg denne visuelle stilen også i ArchiMate.">
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
       id="0846ef4f-63fd-4f9d-b40b-7e32616d7c87">

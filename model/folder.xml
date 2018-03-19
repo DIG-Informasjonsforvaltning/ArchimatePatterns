@@ -1,5 +1,6 @@
 <archimate:ArchimateModel
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Patterns"
+    name="ArchiMate Patterns"
     id="ee398f3f-14cb-40b9-9f0a-28b779891693"
+    purpose="Hensikta med denne modellen er å utforske ulike mønstre (&quot;patterns&quot;) for modellering i ArchiMate 3. Det er to mål med dette: &#xA;- å lære ArchiMate på ein praktisk måte,&#xA;- å etablere felles mønstre for korleis vi modellerer arkitektur i Brønnøysundregistrene."
     version="4.0.0"/>
